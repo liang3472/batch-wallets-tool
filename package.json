@@ -1,0 +1,19 @@
+{
+  "name": "batch-wallets-tool",
+  "version": "1.0.0",
+  "description": "批量钱包操作工具",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check": "node ./src/check.js",
+    "disperse": "node ./src/disperse.js",
+    "converge": "node ./src/converge.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "web3": "^1.7.3",
+    "web3-eth-contract": "^1.7.3"
+  }
+}
