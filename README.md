@@ -72,3 +72,11 @@ c、配置完成，可以运行了
 
 ## 验证
 以下为本人亲自验证工具有效性
+
+分发
+![image](https://user-images.githubusercontent.com/5353946/168977216-7087e6c0-839c-4353-988c-63b67fae472a.png)
+
+
+聚合，其中一子钱包
+![image](https://user-images.githubusercontent.com/5353946/168977813-1e90ece0-d353-4da7-bd7d-c11d5fba00e6.png)
+
